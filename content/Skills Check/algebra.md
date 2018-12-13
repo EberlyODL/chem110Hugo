@@ -20,25 +20,25 @@ Let's take a look a couple of examples:
 
 First carry out the operation in the parentheses:
 
-(4+3)/5 $$\Longrightarrow$$ 7/5
+(4+3)/5 <lrn-math>\Longrightarrow</lrn-math> 7/5
 
 There are no exponents, so next we proceed to multiplication/division. Let's divide to get our final answer:
 
-7/5 $$\Longrightarrow$$ 1.4
+7/5 <lrn-math>\Longrightarrow</lrn-math> 1.4
 
 **_Example 2:_** calculate: 4+3/5 =
 
 There are no parentheses or exponents, so we begin with multiplication/division. Let's divide:
 
-4+3/5 $$\Longrightarrow$$ 4 + 0.6
+4+3/5 <lrn-math>\Longrightarrow</lrn-math> 4 + 0.6
 
 Next we proceed to addition/subtraction. Let's add to get our final answer:
 
-4+0.6 $$\Longrightarrow$$ 4.6
+4+0.6 <lrn-math>\Longrightarrow</lrn-math> 4.6
 
 **_Example 3:_** Order of operations often presents problems when students enter calculations into calculators. Be sure to use parentheses as needed. The most common mistakes we see are when students are dividing by a product, for example:
 
-$$\frac{10}{5\cdot4}=$$
+<lrn-math>\frac{10}{5\cdot4}=</lrn-math>
 
 
 If you type "10/5*4" into your calculator, you will get an answer of 8, which is not correct.
@@ -52,33 +52,33 @@ Similarly, typing "10/5/4" will also give you the correct answer.
 
 When multiplying two exponents together, you can add the exponents together provided both numbers have the same base. Generically, this looks like this (where "n" is any number or variable):
 
-$$n^x\cdot n^y=n^{x+y}$$
+<lrn-math>n^x\cdot n^y=n^{x+y}</lrn-math>
 
 
 Similarly, when you divide two of the same base, you can subtract the exponents. Generically, this looks like this (where "n" is any number or variable):
 
-$$\frac{n^x}{n^y}=n^{x-y}$$
+<lrn-math>\frac{n^x}{n^y}=n^{x-y}</lrn-math>
 
 
 **_Example 1: _**
 
-$$10^2\cdot10^{-6}=$$
+<lrn-math>10^2\cdot10^{-6}=</lrn-math>
 
 Since we're multiplying two exponent numbers with the same base, the answer will have the same base (10), and the exponent will simply be the sum of the two exponents:
 
-$$10^2\cdot10^{-6}=10^{-4}$$
+<lrn-math>10^2\cdot10^{-6}=10^{-4}</lrn-math>
 
 
 If you're asked to express this as a decimal, keep in mind that the negative exponent is equivalent to saying 1/10<sup>4</sup>, or 1/10,000, or simply 0.0001.
 
 **_Example 2: _**
 
-$$10^2\div10^{-6}=$$
+<lrn-math>10^2\div10^{-6}=</lrn-math>
 
 
 Since we're dividing two exponent numbers with the same base, the answer will have the same base (10), and the exponent will simply be the difference between the two exponents:
 
-$$10^2\div10^{-6}=10^{8}$$
+<lrn-math>10^2\div10^{-6}=10^{8}</lrn-math>
 
 
 If you're asked to express this as a decimal number, it would equal 100,000,000 
