@@ -11,7 +11,7 @@ The conversion factors noted in the Skill Check: Metric Unit convert from one un
 
 Density is a useful intensive property of a substance, and it is defined as the amount of mass in a unit volume of the substance:
 
-$$density=\frac{mass}{volume}$$
+<lrn-math>density=\frac{mass}{volume}</lrn-math>
 
 Mass is usually described in killograms (kg) or grams (g), and volume is usually in liters (L) or milliliters (mL). So density has a unit of either killograms per liter (kg/L) or grams per milliter (g/mL or g/cm$$^3$$). Since the volume of a liquid usually changes with temperature, chemists generally specify the density at a particular temperature. For example, the density of water is 1.00 g/mL at 10 $$^{\circ}$$C, while it is only 0.958 g/mL at 100 $$^{\circ}$$C.
 
