@@ -48,7 +48,7 @@ There is one other unusual unit that you'll see from time to time in CHEM 110, t
 <cms-token token-end-point="https://media.ed.science.psu.edu/webcomponents/cms-token/gQvBpAKDa_361wmiNWwQFfP3ho3gLW-7rEQ-Ydd-v3k/webcomponents_tags_filter" token="ciscode|rev=1|tool=elmsmedia|item=3210|entity_type=node|render=display_mode|display_mode=iframe">
 </cms-token>
 
-<a11y-media-player media-type="youtube" youtube-id="z_NLIrary5w"></a11y-media-player>
+<a11y-media-player media-type="youtube" youtube-id="z_NLIrary5w" sticky-corner="none"></a11y-media-player>
 
 [ciscode|rev=1|tool=elmsmedia|item=3210|entity_type=node|render=display_mode|display_mode=mediavideo]
 
